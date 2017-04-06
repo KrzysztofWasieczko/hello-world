@@ -1,2 +1,3 @@
 # hello-world
-My first github repo
+
+It's my first repo on guthub.
